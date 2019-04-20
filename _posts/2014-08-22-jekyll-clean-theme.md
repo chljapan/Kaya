@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Jekyll Clean Theme"
-date: 2014-08-22 16:25:06 -0700
+title: "SmartKaYa(MDA)"
+date: 2019-04-20 22:10:06 -0700
 comments: false
 ---
 
@@ -9,23 +9,16 @@ comments: false
 * See the [live demo](https://scotte.github.io/jekyll-clean).
 * See it [in action on my own blog](https://scotte.org).
 
-Welcome to the sample post for the Jekyll Clean theme.
+Welcome to SmartKaYa of world.
+SmartKaYa 是一个模型驱动架构实现。可以帮助你方便的使用该架构。
+关于MDA这里不再赘述。有兴趣的朋友可以自己去百度。
+希望SmartKaYa带给你全新的架构体验。
 
-A simple and clean Jekyll theme using [bootstrap](http://getbootstrap.com)
-(not to be confused with jekyll-bootstrap) that's easy to modify and very
-modular in component and element reuse.
-
-It uses Disqus for comments and includes Google Analytics support. Both of
-these features are disabled by default and can be enabled via \_config.yml. You
-can also rip this code out of the templates if you like (footer.html and post.html).
-The beauty of Jekyll - keep things clean... Jekyll Clean!
-
-The theme works well on mobile phones, using a collapsable nav bar and hiding the
-sidebar. The links pane in the sidebar is available on mobile through the nav menu,
-and you can do the same thing for any other sections added to the sidebar.
-
-Don't forget to occassionally merge against my upstream repository so you can get
-the latest changes. Pull requests are encouraged and accepted!
+Download
+============
+* GME(图形建模工具) [GME](http://repo.isis.vanderbilt.edu/GME/old/17.12.6/GME_x64-17.12.6.msi).
+* 元模型文件 [live demo](https://scotte.github.io/jekyll-clean).
+* See it [in action on my own blog](https://scotte.org).
 
 Installation
 ============
