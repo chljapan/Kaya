@@ -1,7 +1,7 @@
 # Jekyll configuration
 
 name: SmartKaYa
-description: MDA
+description: MDA(Model driven architecture)
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://chljapan.github.io/kaya
