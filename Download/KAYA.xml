@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<!-- KAYA configFile -->
+
+<Service name="KAYA">
+	<Log
+		kayaMetaModelParseLogPath="C:/log/KayaModel.log"
+	/>
+
+	<KaYa 
+	metamodelPath="C:/Users/kaya/Desktop/GME/kaya003.mga"
+	modelPath="C:/Users/LiangChen/Desktop/GME/kaya004.xme" 
+	rulePath="" 
+	workFlowPath=""
+	/>
+
+	<!-- 
+	开发模式 dev
+	生产模式  prod
+	 -->
+	<OperationalMode mode="dev"/>
+</Service>
